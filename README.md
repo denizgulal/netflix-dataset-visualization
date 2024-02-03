@@ -2,13 +2,20 @@
 ## Overview
 This repository contains Tableau visualizations created to analyze and explore Netflix data. The visualizations aim to provide insights into various aspects of Netflix, such as content distribution, user preferences, and trends over time.
 
+
+![tableau_workbook](Netflix.png)
+
+To see the workbook in detail, visit my portfolio [TABLEAU](https://public.tableau.com/views/NetflixDataAnalysis_17069601655470/Netflix?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Tableau Dashboards
 ### 1. Content Distribution
 Description: This dashboard focuses on the distribution of content across different genres, release years, and languages on Netflix.
+
 Visualizations: Bar charts, bubble charts, and maps depicting the distribution of content based on genres, release years, and languages.
 
 ### 2. User Preferences
 Description: Explore user preferences by analyzing ratings, viewer demographics, and popular genres.
+
 Visualizations: Scatter plots, bar charts, and heatmaps showcasing user ratings, viewer demographics, and genre popularity.
 
 ### 3. Trend Analysis
