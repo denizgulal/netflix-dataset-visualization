@@ -23,7 +23,7 @@ Description: Understand the trends in Netflix content over time, including the g
 
 ## Getting Started
 Clone the repository:
-$ git clone https://github.com/your-username/netflix-tableau-visualization.git
+$ git clone https://github.com/denizgulal/netflix-tableau-visualization.git
 1. Open Tableau Desktop or Tableau Public.
 2. Connect to the provided dataset (Netflix data file).
 3. Load the Tableau workbook file (Netflix_Visualizations.twb) available in the repository.
