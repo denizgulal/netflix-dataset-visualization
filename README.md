@@ -30,7 +30,7 @@ Netflix dataset (provided in the repository)
 Feel free to contribute by opening issues, providing feedback, or submitting pull requests. Any help in improving and expanding the visualizations is highly appreciated.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md] () file for details.
+This project is licensed under the MIT License - see the [LICENSE.md] (https://github.com/denizgulal/netflix-dataset-visualization/blob/main/LICENSE) file for details.
 
 Happy visualizing! 📊
 
